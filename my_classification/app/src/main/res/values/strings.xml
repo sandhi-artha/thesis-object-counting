@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Common Object Counting App</string>
+    <string name="btnLoad">Load</string>
+    <string name="btnPredict">Predict</string>
+    <string name="Predict">Predicted counts:</string>
+    <string name="img_desc">Image input</string>
+    <string name="Inference">Inference time:</string>
+</resources>
